@@ -1,4 +1,14 @@
-### Hi there 👋
+Coder me = new Coder(); <br>
+me.say("Hello, World! 👾"); <br>
+while (me.alive()){ <br>
+&emsp; me.wakeUp();<br>
+&emsp; me.eat();<br>
+&emsp; me.drinkCoffee();<br>
+&emsp; me.writeCplusplus();<br>
+&emsp; me.writePython();<br>
+&emsp; me.doSport();<br>
+&emsp; me.sleep();<br>
+}
 
 <!--
 **hbilu/hbilu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
